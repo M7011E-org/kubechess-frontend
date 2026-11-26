@@ -11,3 +11,6 @@ npm run lint     # oxlint
 ```
 ## Stack
 React 19 + Vite, Tailwind CSS v4 (via `@tailwindcss/vite`, configured in `src/index.css`).
+
+## Website
+https://group-11-m7011e-ltu.se/
