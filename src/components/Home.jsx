@@ -45,7 +45,7 @@ export default function Home() {
         <div>
           <h1 className="text-4xl font-bold sm:text-5xl">Find your next opponent.</h1>
           <p className="mt-4 text-neutral-400">
-            Pick a time control and jump into the queue. We'll match you with a player of similar rating.
+            Pick a game mode and jump into the queue. We'll match you with a player of similar rating.
           </p>
 
           <div id="play" className="mt-8 grid grid-cols-2 gap-3">
